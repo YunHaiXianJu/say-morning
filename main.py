@@ -9,7 +9,7 @@ import random
 today = datetime.now()
 start_date = '2022-01-01'
 city = '广州'
-birthday = '2003-07-27'
+birthday = '07-27'
 
 app_id = 'wxc9bd43a2be1e0d7a'
 app_secret = 'e6d9ee543afb468a62ee44f67704dc71'
