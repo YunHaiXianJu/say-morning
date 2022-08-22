@@ -7,15 +7,15 @@ import os
 import random
 
 today = datetime.now()
-start_date = os.environ['START_DATE']
-city = os.environ['CITY']
-birthday = os.environ['BIRTHDAY']
+start_date = '2022-01-01'
+city = '广州'
+birthday = '07-27'
 
-app_id = os.environ["APP_ID"]
-app_secret = os.environ["APP_SECRET"]
+app_id = 'wxc9bd43a2be1e0d7a'
+app_secret = 'e6d9ee543afb468a62ee44f67704dc71'
 
-user_id = os.environ["USER_ID"]
-template_id = os.environ["TEMPLATE_ID"]
+user_id = 'oqkP86rWeqGjZhms2WdX1TUx7uhk'
+template_id = 'X3yO53rZQx-jMUeMOXnVqDQZBkU6N08k_qWIP_3v9Cw'
 
 
 def get_weather():
