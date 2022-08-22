@@ -14,7 +14,7 @@ birthday = '07-27'
 app_id = 'wxc9bd43a2be1e0d7a'
 app_secret = 'e6d9ee543afb468a62ee44f67704dc71'
 
-user_id = 'oqkP86rWeqGjZhms2WdX1TUx7uhk 移除'
+user_id = 'oqkP86rWeqGjZhms2WdX1TUx7uhk '
 template_id = 'X3yO53rZQx-jMUeMOXnVqDQZBkU6N08k_qWIP_3v9Cw'
 
 
